@@ -30,7 +30,7 @@ AI를 단순 코드 생성 도구로 사용하는 것이 아니라 개발 속도
 실제 운영 중인 서비스와 클라이언트 프로젝트의 대부분은 Private Repository로 관리하고 있습니다.
 - [스타트픽](https://github.com/kmma3456/startpic-overview) | SNS 성장 및 셀프 마케팅 플랫폼
 - [오토스위치](https://github.com/kmma3456/autoswitch-overview) | 블로그 마케팅 운영 및 자동화 지원 플랫폼 · [라이브](https://autoswitch.ai.kr)
-- [Python Automation](https://github.com/kmma3456/kmma3456/blob/main/projects/python-automation.md) | 반복 업무 및 데이터 처리 자동화 프로그램
+- [Python Automation](https://github.com/kmma3456/python-automation-overview) | 반복 업무 및 데이터 처리 자동화 프로그램
 - [패턴제작업체 ERP](https://github.com/kmma3456/pattern-erp-overview) | 업체 업무 프로세스에 맞춘 맞춤형 ERP
 - [화장품 용기 조립 공장 MES / ERP](https://github.com/kmma3456/kmma3456/blob/main/projects/cosmetics-mes.md) | 생산 현장 특화 MES 및 ERP 시스템
 - [타이키트립](https://github.com/kmma3456/kmma3456/blob/main/projects/taikitrip.md) | 호텔 공동구매 플랫폼
