@@ -1,12 +1,14 @@
 # 패턴제작업체 맞춤형 ERP
 
-패턴 제작업체의 실제 업무 프로세스에 맞춘 ERP입니다.
+패턴 제작업체의 실제 업무 프로세스에 맞춘 ERP입니다. 소스코드는 private입니다.
 
-소스코드는 private입니다. 채용·협업 검토 시 공유할 수 있습니다.
+## 상세 문서 (공개)
 
-## 무엇을 하나요
+- **[프로젝트 개요 README](https://github.com/kmma3456/pattern-erp-overview)** — 한눈에 보기, 스택, 권한, 로컬 실행 요약
+- **[기능 상세](https://github.com/kmma3456/pattern-erp-overview/blob/main/docs/FEATURES.md)** — 화면별 기능·업무 흐름
+- **[아키텍처](https://github.com/kmma3456/pattern-erp-overview/blob/main/docs/ARCHITECTURE.md)** — 레이어, API, 배포
 
-범용 ERP를 억지로 맞추기보다, 업체가 이미 쓰던 주문·제작·관리 흐름을 시스템에 옮기는 쪽이 목적이었습니다.
+채용·협업 검토 시 공개 가능한 범위에서 추가 자료를 공유할 수 있습니다.
 
 ## 담당
 
