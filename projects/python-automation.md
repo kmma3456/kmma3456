@@ -1,17 +1,11 @@
 # Python Automation
 
-반복 업무와 데이터 처리를 줄이기 위한 Python 기반 자동화 프로그램들입니다.
+반복 업무와 데이터 정리를 위한 Windows 데스크톱 자동화 프로그램 소개입니다.
 
-소스코드는 private입니다. 채용·협업 검토 시 공유할 수 있습니다.
+설명 문서는 아래 저장소에 있습니다.
 
-## 무엇을 하나요
+- [개요](https://github.com/kmma3456/python-automation-overview)
+- [기능 상세](https://github.com/kmma3456/python-automation-overview/blob/main/docs/FEATURES.md)
+- [아키텍처](https://github.com/kmma3456/python-automation-overview/blob/main/docs/ARCHITECTURE.md)
 
-수작업으로 반복되던 수집, 정리, 변환 작업을 스크립트로 묶어 실행 시간을 줄이고 실수 여지를 줄였습니다.
-
-## 담당
-
-업무 흐름을 파악한 뒤 자동화 범위를 정하고, 프로그램을 작성·운영했습니다.
-
-## 관련
-
-- 프로필: https://github.com/kmma3456
+소스코드와 접속 정보는 private입니다.
